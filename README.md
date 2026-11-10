@@ -6,3 +6,4 @@ Proyecto de aprendizaje del curso Git y GitHub.
 ## Temas aprendidos
 - Repositorios remotos.
 - Push, fetch y pull.
+Repositorio actualizado directamente desde GitHub.
